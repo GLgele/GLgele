@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm RuoBai (GLgele)，you can find me in these places:
 
 * RuoBai's blog：[glgele.github.io](glgele.github.io)
-*                [http://ruobai.byethost22.com/blog](http://ruobai.byethost22.com/blog)
+* RuoBai's blog： [http://ruobai.byethost22.com/blog](http://ruobai.byethost22.com/blog)
 
 * RuoBai / Gitee: [GLgele](https://gitee.com/GLgele)
 
