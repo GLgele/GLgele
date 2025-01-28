@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm KeyFac (GLgele)，you can find me in these places:
 
-* KeyFac's blog：[glgele.github.io](glgele.github.io)
+* KeyFac's blog：[glgele.github.io](http://glgele.github.io)
 <!-- * RuoBai's blog： [http://ruobai.byethost22.com/blog](http://ruobai.byethost22.com/blog) -->
 
 * KeyFac / Gitee: [GLgele](https://gitee.com/GLgele)
