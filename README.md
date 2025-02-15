@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GLgele&count_private=true&show_icons=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GLgele&count_private=true&show_icons=true&locale=cn"/>
 
-I'm KeyFac (GLgele)，you can find me in these places:
+I'm KeyFac，you can find me in these places:
 
 * KeyFac's blog：[glgele.github.io](http://glgele.github.io)
 <!-- * RuoBai's blog： [http://ruobai.byethost22.com/blog](http://ruobai.byethost22.com/blog) -->
